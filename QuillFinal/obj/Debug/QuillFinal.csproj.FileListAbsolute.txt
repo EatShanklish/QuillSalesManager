@@ -1,0 +1,14 @@
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\bin\Debug\QuillFinal.exe.config
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.csprojResolveAssemblyReference.cache
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.LoginForm.resources
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.Properties.Resources.resources
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.csproj.GenerateResource.Cache
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\bin\Debug\QuillFinal.exe
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\bin\Debug\QuillFinal.pdb
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.exe
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.pdb
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.CustomerContextMenu.resources
+c:\users\lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.existingcustomer.resources
+C:\Users\Lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.PurchaseComplete.resources
+C:\Users\Lama\Documents\Visual Studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.csproj.ResolveComReference.cache
+C:\Users\Lama\documents\visual studio 2015\Projects\QuillFinal\QuillFinal\obj\Debug\QuillFinal.NewCustomer.resources
